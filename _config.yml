@@ -1,1 +1,7 @@
-_config.yml
+theme: jekyll-theme-beautiful-jekyll
+#title: ADA Template Website
+#description: A template website for ADA
+show_downloads: True
+#navigation:
+  #- title: Home
+    #url: /
